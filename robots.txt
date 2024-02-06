@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://phucducnguyen.github.io/sitemap.xml
+Sitemap: https://ndp2101.github.io/sitemap.xml
