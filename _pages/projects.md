@@ -1,13 +1,13 @@
-<!-- ---
+---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Personal projects - On going...
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [FPGA, test1, test2]
 horizontal: false
---- -->
+---
 
 <!-- pages/projects.md -->
 <div class="projects">
