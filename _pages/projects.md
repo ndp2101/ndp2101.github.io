@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Personal projects - On going...
+description: Personal and school projects
 nav: true
 nav_order: 3
 display_categories: [FPGA, test1, test2]
