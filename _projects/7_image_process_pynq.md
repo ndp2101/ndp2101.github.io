@@ -5,7 +5,7 @@ title: Image Processing on FPGAs using PYNQ (PYNQ Z2 board)
 img: assets/img/12.jpg
 importance: 1
 category: FPGA
-related_publications: true
+# related_publications: true
 ---
 
 Will update more details when having more time

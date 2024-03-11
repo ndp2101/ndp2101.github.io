@@ -5,7 +5,7 @@ permalink: /projects/
 description: Personal and school projects
 nav: true
 nav_order: 3
-display_categories: [FPGA, test1, test2]
+display_categories: [FPGA] #[FPGA, test1, test2]
 horizontal: false
 ---
 
